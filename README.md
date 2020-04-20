@@ -1,2 +1,5 @@
-# hehaita0.github.io
-何海涛的博客网站
+# hexo-theme-hiero Sample
+
+Hi, this is hexo-theme-hiero sample website.
+
+You can click here(https://itimetraveler.github.io/hexo-theme-hiero) to visit.
